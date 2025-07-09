@@ -1,4 +1,4 @@
-ipkernel
+ipykernel
 numpy
 matplotlib
 seaborn
