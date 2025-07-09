@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import joblib
 
-model = joblib.load('model')
+model = joblib.load('model.pkl')
 
 st.title("HDB Resale Price Prediction")
 
